@@ -1,0 +1,30 @@
+C:\Users\wwwmo\Desktop\GIK\bin\Debug\net6.0\GIK.exe
+C:\Users\wwwmo\Desktop\GIK\bin\Debug\net6.0\GIK.deps.json
+C:\Users\wwwmo\Desktop\GIK\bin\Debug\net6.0\GIK.runtimeconfig.json
+C:\Users\wwwmo\Desktop\GIK\bin\Debug\net6.0\GIK.dll
+C:\Users\wwwmo\Desktop\GIK\bin\Debug\net6.0\GIK.pdb
+C:\Users\wwwmo\Desktop\GIK\obj\Debug\net6.0\GIK.csproj.AssemblyReference.cache
+C:\Users\wwwmo\Desktop\GIK\obj\Debug\net6.0\GIK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwmo\Desktop\GIK\obj\Debug\net6.0\GIK.AssemblyInfoInputs.cache
+C:\Users\wwwmo\Desktop\GIK\obj\Debug\net6.0\GIK.AssemblyInfo.cs
+C:\Users\wwwmo\Desktop\GIK\obj\Debug\net6.0\GIK.csproj.CoreCompileInputs.cache
+C:\Users\wwwmo\Desktop\GIK\obj\Debug\net6.0\GIK.dll
+C:\Users\wwwmo\Desktop\GIK\obj\Debug\net6.0\refint\GIK.dll
+C:\Users\wwwmo\Desktop\GIK\obj\Debug\net6.0\GIK.pdb
+C:\Users\wwwmo\Desktop\GIK\obj\Debug\net6.0\GIK.genruntimeconfig.cache
+C:\Users\wwwmo\Desktop\GIK\obj\Debug\net6.0\ref\GIK.dll
+C:\Users\wwwmo\Desktop\GIK\Задача 2\obj\Debug\net6.0\GIK.csproj.AssemblyReference.cache
+C:\Users\wwwmo\Desktop\GIK\Задача 2\obj\Debug\net6.0\GIK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwmo\Desktop\GIK\Задача 2\obj\Debug\net6.0\GIK.AssemblyInfoInputs.cache
+C:\Users\wwwmo\Desktop\GIK\Задача 2\obj\Debug\net6.0\GIK.AssemblyInfo.cs
+C:\Users\wwwmo\Desktop\GIK\Задача 2\obj\Debug\net6.0\GIK.csproj.CoreCompileInputs.cache
+C:\Users\wwwmo\Desktop\GIK\Задача 2\obj\Debug\net6.0\GIK.dll
+C:\Users\wwwmo\Desktop\GIK\Задача 2\obj\Debug\net6.0\refint\GIK.dll
+C:\Users\wwwmo\Desktop\GIK\Задача 2\obj\Debug\net6.0\GIK.pdb
+C:\Users\wwwmo\Desktop\GIK\Задача 2\bin\Debug\net6.0\GIK.exe
+C:\Users\wwwmo\Desktop\GIK\Задача 2\bin\Debug\net6.0\GIK.deps.json
+C:\Users\wwwmo\Desktop\GIK\Задача 2\bin\Debug\net6.0\GIK.runtimeconfig.json
+C:\Users\wwwmo\Desktop\GIK\Задача 2\bin\Debug\net6.0\GIK.dll
+C:\Users\wwwmo\Desktop\GIK\Задача 2\bin\Debug\net6.0\GIK.pdb
+C:\Users\wwwmo\Desktop\GIK\Задача 2\obj\Debug\net6.0\GIK.genruntimeconfig.cache
+C:\Users\wwwmo\Desktop\GIK\Задача 2\obj\Debug\net6.0\ref\GIK.dll
